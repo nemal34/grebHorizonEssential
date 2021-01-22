@@ -1,0 +1,27 @@
+h1
+{
+	font-weight:100;
+	color:rgb(200, 200, 200);
+}
+
+h2, .F4SElink
+{
+	font-weight:100;
+	color:rgb(200, 200, 240);
+}
+
+body
+{
+	font-family:calibri,arial;
+	background-color:rgb(32, 32, 32);
+}
+
+a
+{
+	color:rgb(200, 240, 200);
+}
+
+p, .Buffoutlink
+{
+	color:white;
+}
