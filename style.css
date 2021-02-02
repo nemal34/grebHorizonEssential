@@ -13,8 +13,8 @@ header
 	display:flex;
 	background: url('images/hz_banner.jpg');
 	justify-content: space-between;
-    align-items: flex-end;
-    border-bottom: 2px #7898f0 solid;
+    	align-items: flex-end;
+    	border-bottom: 2px #7898f0 solid;
 	/*border: 1px white solid;*/
 }
 header h1
@@ -27,7 +27,7 @@ header h1
 header ul
 {
 	list-style-type: none;
-    display: flex;
+    	display: flex;
 	margin-bottom: 5px;
 	/*border: 1px white solid;*/
 }
@@ -38,16 +38,15 @@ header li
 }
 header a
 {
-    font-size: 1.3em;
-    color:#222222;
-    text-decoration: none;
+	font-size: 1.3em;
+    	color:#222222;
+    	text-decoration: none;
 }
 header a:hover
 {
-    color: black;
-    text-decoration: underline;
+    	color: black;
+    	text-decoration: underline;
 }
-
 
 
 section
@@ -76,18 +75,18 @@ section p
 section a
 {
 	color:#a8d6ff;	
-    text-decoration: none;
+    	text-decoration: none;
 }
 section a:hover
 {
 	color:#a0a0f0;
-    text-decoration: underline;
+    	text-decoration: underline;
 }
 
 footer ul
 {
 	list-style-type: none;
-    display: flex;
+    	display: flex;
 	margin-bottom: 5px;
 	/*border: 1px white solid;*/
 }
@@ -98,12 +97,12 @@ footer li
 }
 footer a
 {
-    font-size: 1.3em;
-    color:#222222;
-    text-decoration: none;
+   	font-size: 1.3em;
+   	color:#222222;
+	text-decoration: none;
 }
 footer a:hover
 {
-    color: black;
-    text-decoration: underline;
+	color: black;
+	text-decoration: underline;
 }
