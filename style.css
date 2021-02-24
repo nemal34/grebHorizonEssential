@@ -12,8 +12,8 @@ header
 	display:flex;
 	background: url('images/hz_banner.jpg');
 	justify-content: space-between;
-    align-items: flex-end;
-    border-bottom: 0.1em #7898f0 solid;
+	align-items: flex-end;
+	border-bottom: 0.1em #7898f0 solid;
 }
 header h1
 {
@@ -24,7 +24,7 @@ header h1
 header ul
 {
 	list-style-type: none;
-    display: flex;
+	display: flex;
 	margin-bottom: 0.1em;
 }
 header li
@@ -33,14 +33,14 @@ header li
 }
 header a
 {
-    font-size: 1.3em;
-    color:#222222;
-    text-decoration: none;
+	font-size: 1.3em;
+	color:#222222;
+	text-decoration: none;
 }
 header a:hover
 {
-    color: black;
-    text-decoration: underline;
+	color: black;
+	text-decoration: underline;
 }
 
 section
@@ -67,38 +67,17 @@ section p
 section a
 {
 	color:#a8d6ff;	
-    text-decoration: none;
+	text-decoration: none;
 }
 section a:hover
 {
 	color:#a0a0f0;
-    text-decoration: underline;
+	text-decoration: underline;
 }
-details {
-    margin-bottom: 0em;
-	max-width: 13em;
-	color:#CCCCCC;
-    border-left: 0.2em solid #a8d6ff;
-    padding: 0 0 0 0.3em;
-}
-summary {
-	list-style-type: none;
-	font-weight: bold;
-	max-width: 5em;
-	padding-right: 0.2em;
-}
-details[open] {
-	max-width: 13em;
-    padding: 0 0 0 0.3em;
-}
-details[open] summary {
-	font-weight: bold;
-}
-
 footer ul
 {
 	list-style-type: none;
-    display: flex;
+	display: flex;
 	margin-top: 0.5em;
 }
 footer li
@@ -107,19 +86,19 @@ footer li
 }
 footer a
 {
-    color:#a8d6ff;
-    text-decoration: none;
+	color:#a8d6ff;
+	text-decoration: none;
 }
 footer a:hover
 {
-    color:#a0a0f0;
-    text-decoration: underline;
+	color:#a0a0f0;
+	text-decoration: underline;
 }
 footer
 {
 	margin-top: 1em;
 	display:flex;
 	justify-content: space-between;
-    align-items: flex-end;
-    border-top: 0.1em #7898f0 solid;
+	align-items: flex-end;
+	border-top: 0.1em #7898f0 solid;
 }
