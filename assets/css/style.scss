@@ -13,6 +13,21 @@ a {
     blockquote {
       color: $gray-300;
     }
+    table {
+        th,
+        td {
+          border: lighten($gray-600, 5%);
+        }
+    
+        tr {
+          background-color: $bg-gray-dark;
+          border-top: darken($gray-600, 4%);
+    
+          &:nth-child(2n) {
+            background-color: $gray-900;
+          }
+        }
+      }
 }
 
   
