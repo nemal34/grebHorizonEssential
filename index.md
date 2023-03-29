@@ -1,4 +1,4 @@
-# Non-F4SE Mods
+## Non-F4SE Mods
 [Unofficial Fallout 4 Patch](https://www.nexusmods.com/fallout4/mods/4598)\
 [Automatically Lowered Weapons](https://www.nexusmods.com/fallout4/mods/20093)\
 [PRP Lite](https://www.nexusmods.com/fallout4/mods/64405)
@@ -12,7 +12,7 @@
 [Fast Start - Skip Sanctuary Prologue](https://www.nexusmods.com/fallout4/mods/57101)
 
 
-# [F4SE](https://www.nexusmods.com/fallout4/mods/42147) Mods
+## [F4SE](https://www.nexusmods.com/fallout4/mods/42147) Mods
 [Buffout 4 NG](https://www.nexusmods.com/fallout4/mods/64880) and [Address Library](https://www.nexusmods.com/fallout4/mods/47327)\
 [Mod Configuration Menu](https://www.nexusmods.com/fallout4/mods/21497)\
 [HUDFramework](https://www.nexusmods.com/fallout4/mods/20309)
