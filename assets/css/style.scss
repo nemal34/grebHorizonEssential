@@ -2,3 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
+body {
+    color: $text-white;
+    background-color: $bg-gray-dark;
+  }
