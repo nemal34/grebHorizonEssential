@@ -8,11 +8,15 @@
 [Keep Radiants in the Commonwealth UFO4P Version](https://www.nexusmods.com/fallout4/mods/56089)
 >Install the mod and the [Horizon Patch](https://www.nexusmods.com/fallout4/mods/69033)
 
-[No PA Battery Pathing](https://www.nexusmods.com/fallout4/mods/33080)
+[No PA Battery Pathing](https://www.nexusmods.com/fallout4/mods/33080)\
+[Fast Start - Skip Sanctuary Prologue](https://www.nexusmods.com/fallout4/mods/57101)
 
 ## [F4SE](https://www.nexusmods.com/fallout4/mods/42147) Mods
 [Buffout 4 NG](https://www.nexusmods.com/fallout4/mods/64880) and [Address Library](https://www.nexusmods.com/fallout4/mods/47327)\
 [Mod Configuration Menu](https://www.nexusmods.com/fallout4/mods/21497)\
+[HUDFramework](https://www.nexusmods.com/fallout4/mods/20309)
+>Load HUDFr above Horizon on the left side of MO
+
 [Unlimited Survival Mode](https://www.nexusmods.com/fallout4/mods/26163)\
 [High FPS Physics Fix](https://www.nexusmods.com/fallout4/mods/44798)\
 [Sprint Stuttering Fix](https://www.nexusmods.com/fallout4/mods/47760)\
