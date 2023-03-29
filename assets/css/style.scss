@@ -13,6 +13,17 @@ a {
     blockquote {
       color: $gray-300;
     }
+    table {
+        th,
+        td {
+          border: 2px solid $text-white;
+        }
+    
+        tr {
+          background-color: $bg-gray-dark;
+          border-top: 2px solid $text-white;
+        }
+    }
 }
 
   
