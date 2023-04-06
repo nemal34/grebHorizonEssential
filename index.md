@@ -1,3 +1,5 @@
+# Essential Mods
+
 ## Non-F4SE Mods
 [Unofficial Fallout 4 Patch](https://www.nexusmods.com/fallout4/mods/4598)\
 [Automatically Lowered Weapons](https://www.nexusmods.com/fallout4/mods/20093)\
@@ -30,5 +32,3 @@
 [Place Everywhere](https://www.nexusmods.com/fallout4/mods/9424)\
 [Better Console](https://www.nexusmods.com/fallout4/mods/26582)\
 [Crafting Highlight Fix](https://www.nexusmods.com/fallout4/mods/27479)
-
-[Essentials](./essentials.html)

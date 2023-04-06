@@ -1,3 +1,5 @@
+# Essential Mods
+
 ## Non-F4SE Mods
 [Unofficial Fallout 4 Patch](https://www.nexusmods.com/fallout4/mods/4598)\
 [Automatically Lowered Weapons](https://www.nexusmods.com/fallout4/mods/20093)\
