@@ -97,4 +97,4 @@ Enhanced Vanilla Armor and Clothing - EVAC
 
 ## Horizon Finish
 Load Order
->Replace loadorder.txt in your profile folder with this [file]()
+>Replace loadorder.txt in your profile folder with this [file](https://raw.githubusercontent.com/nemal34/grebHorizonEssential/main/loadorder.txt)
