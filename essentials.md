@@ -4,13 +4,13 @@
 [Unofficial Fallout 4 Patch](https://www.nexusmods.com/fallout4/mods/4598)\
 [Automatically Lowered Weapons](https://www.nexusmods.com/fallout4/mods/20093)\
 [PRP Lite](https://www.nexusmods.com/fallout4/mods/64405)
->Install all main files and load the plugins just above Enhanced Settlements
+>Install all main files and load the plugins just above Z_Architect_HomePlate.esp
 
 [One Minutemen Radiant Quest at a time](https://www.nexusmods.com/fallout4/mods/22296)\
 [No PA Battery Pathing](https://www.nexusmods.com/fallout4/mods/33080)\
 [Fast Start - Skip Sanctuary Prologue](https://www.nexusmods.com/fallout4/mods/57101)\
 [HUDFramework](https://www.nexusmods.com/fallout4/mods/20309)
->Load HUDFr above Horizon on the left side of MO
+>Load HUDFramework above Horizon on the left side of MO
 
 ## [F4SE](https://www.nexusmods.com/fallout4/mods/42147) Mods
 [Buffout 4 NG](https://www.nexusmods.com/fallout4/mods/64880) and [Address Library](https://www.nexusmods.com/fallout4/mods/47327)\
