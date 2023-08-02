@@ -73,6 +73,9 @@ Better Power Armor - Redux - FATE Fixes Patch
 Thrive Redone
 >Disable the mod
 
+Perennial Power Armor - Lightweight Power Armor Rebalance
+>Disable the mod
+
 Power Armor Repair Kits
 >Disable the mod
 
