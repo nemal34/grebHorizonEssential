@@ -16,6 +16,9 @@ Previsibines Repair Pack
 [PRP Lite](https://www.nexusmods.com/fallout4/mods/64405)
 >Install the main files and load the plugins just above Z_Architect_HomePlate.esp
 
+Jet Script Bug Fix
+>Disable the mod
+
 Legendary Drop Fix
 >Disable the mod
 
