@@ -6,22 +6,37 @@ DLCCoast.esm
 DLCworkshop02.esm
 DLCworkshop03.esm
 DLCNukaWorld.esm
+REFramework.esm
 Unofficial Fallout 4 Patch.esp
-XDI.esm
+Ownership Fixes.esp
+TMR_GlitchfinderAIO.esm
 HUDFramework.esm
+XDI.esm
 Z_Architect.esm
 Z_Architect_WorldManager.esp
 Z_Architect_WorldManager_DLC.esp
 Z_Architect_WorldFixes.esp
-TerrainUndersides.esp
 Wetness Shader Fix.esp
 Fixed Gobo Effects.esp
+Less Annoying Berry Mentats.esp
+ImTalkingToYou.esp
+OutlineWorkshopShader.esp
+LetMeUseThat.esp
+DLC Timing.esp
+DLC Timing - UFO4P Patch.esp
+WhoIsTheGeneral.esp
 Lightweight Lighting.esp
+Z_Architect_Weather.esp
+Gloomy Glass.esp
 Targeted Textures.esp
 Z_Architect_TexturePack01.esp
-Z_Architect_Weather.esp
+FO4ParticlePatch.esp
+WET.esp
+WAVE.esp
 Enhanced Vanilla Armor and Clothing.esp
-InstitWeapPosit.esp
+ScopeOverlayDOF.esp
+DiamondCityBillboards.esp
+GoodneighborView.esp
 RemoveBlur.esp
 Z_BlurRemoval.esp
 Z_CameraAddon.esp
@@ -34,16 +49,16 @@ Z_Horizon_StrictCarryWeight.esp
 Z_Extras.esp
 Z_Architect_Extras.esp
 Z_Architect_CaravanRobots.esp
-TrueInvisibility.esp
+RAW INPUT.esp
+Z_Horizon_OwnershipFixes.esp
+Z_Horizon_WTG.esp
 Enhanced Vanilla Armor and Clothing - Horizon.esp
-PRPFX-BostonAirport.esp
-PRPFX-BostonCommon.esp
-PRPFX-Concord.esp
-PRPFX-Corvega.esp
-PRPFX-Financial.esp
+TerrainUndersides.esp
+PRPFX-Merged.esp
 Z_Architect_HomePlate.esp
 Z_Architect_Empire.esp
 Z_Architect_EnhancedSettlements.esp
 Z_Architect_EnhancedSettlements_DLC.esp
 Z_Architect_OptimizedLocations.esp
 Z_Horizon_TEMP_FIX1.esp
+PuddleReflectionFix.esp

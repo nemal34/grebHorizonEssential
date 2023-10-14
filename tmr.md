@@ -7,20 +7,26 @@
 >Install the main files
 
 ## Bug Fixes
-FO4 Fixes And Technical Enhancements (FATE Patch)
+Ownership Fixes
+>Install the [patch](https://www.nexusmods.com/fallout4/mods/69033)
+
+Community Fixes Merged
+>Disable the mod
+
+Jet Script Bug Fix
+>Disable the mod
+
+Weapon Mod Fixes
+>Disable the mod
+
+CFM - Weapon Mod Fixes Patch
 >Disable the mod
 
 Previsibines Repair Pack
 >Disable the mod
 
 [PRP Lite](https://www.nexusmods.com/fallout4/mods/64405)
->Install the main files and load the plugins just above Z_Architect_HomePlate.esp
-
-Jet Script Bug Fix
->Disable the mod
-
-Legendary Drop Fix
->Disable the mod
+>Install the main file
 
 ## Base Finish
 If you're only using TMR Base, go to [Horizon Finish](#horizon-finish).
@@ -29,31 +35,13 @@ If you're only using TMR Base, go to [Horizon Finish](#horizon-finish).
 Bullet Counted Reload
 >Install the [Horizon Lever-Action Shotgun Patch](https://www.nexusmods.com/fallout4/mods/45120)
 
-Weapon Scrapping Redone
->Disable the mod
-
-Clothing Scrapping Redone
->Disable the mod
-
 Remove Ammo from Dropped Guns
 >Disable the mod
 
+Raw Input
+>Install the [patch](https://www.nexusmods.com/fallout4/mods/69033)
+
 ## User Interface
-FallUI - Inventory
->Disable the mod
-
-FallUI - Confirm Boxes
->Disable the mod
-
-FallUI - Workbench
->Disable the mod
-
-FallUI - Map
->Disable the mod
-
-FallUI - HUD
->Disable the mod
-
 MCM Booster
 >Move the mod below Horizon in the left pane
 
@@ -64,34 +52,52 @@ Less Intrusive Tutorial
 >Install the mod and select *Extended Dialogue Interface*, *MCM Booster* and *Horizon* in the installer when possible.
 
 ## Gameplay
-True Invisibility Redux
->Install the [patch](https://www.nexusmods.com/fallout4/mods/69033)
-
-Better Power Armor - Redux
->Disable the mod
-
-Better Power Armor - Redux - FATE Fixes Patch
->Disable the mod
-
-Thrive Redone
->Disable the mod
-
-Perennial Power Armor - Lightweight Power Armor Rebalance
->Disable the mod
-
-Power Armor Repair Kits
->Disable the mod
-
-Encounter Zone Recalculation
->Disable the mod
-
 Complex Vendors
 >Disable the mod
 
 Complex Vendors - UFO4P Patch
 >Disable the mod
 
-Complex Vendors - FATE Fixes Patch
+Blocking Overhaul
+>Disable the mod
+
+NPCs Use Items
+>Disable the mod
+
+Chemfluence - AI Combat Dynamics
+>Disable the mod
+
+DirectHit
+>Disable the mod
+
+Bastion - A Power Armor Overhaul
+>Disable the mod
+
+CFM - BPA Redux Patch
+>Disable the mod
+
+SPARS - Simple Power Armor Reduction System
+>Disable the mod
+
+Keep Radiants in the Commonwealth UFO4P Version
+>Disable the mod
+
+Thrive Redone
+>Disable the mod
+
+Weapon Scrapping Redone
+>Disable the mod
+
+Clothing Scrapping Redone
+>Disable the mod
+
+Encounter Zone Recalculation
+>Disable the mod
+
+Who's The General - Minutemen Quest Cleanup
+>Install the [patch](https://www.nexusmods.com/fallout4/mods/69033)
+
+Who's The General - Keep Radiants in the Commonwealth Patch
 >Disable the mod
 
 ## Visuals
