@@ -11,10 +11,7 @@ Ownership Fixes
 >Install the [patch](https://www.nexusmods.com/fallout4/mods/69033)
 
 Community Fixes Merged
->Disable the mod
-
-Jet Script Bug Fix
->Disable the mod
+>Install the [patch](https://www.nexusmods.com/fallout4/mods/69033)
 
 Weapon Mod Fixes
 >Disable the mod
