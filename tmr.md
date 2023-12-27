@@ -104,6 +104,9 @@ Who's The General - Keep Radiants in the Commonwealth Patch
 Enhanced Vanilla Armor and Clothing - EVAC
 >Install the [patch](https://www.nexusmods.com/fallout4/mods/69033)
 
+Terrain Undersides - PPF Patch
+>Disable the mod
+
 ## Horizon Finish
 Load Order
 >Replace loadorder.txt in your profile folder with this [file](https://raw.githubusercontent.com/nemal34/grebHorizonEssential/main/loadorder.txt)

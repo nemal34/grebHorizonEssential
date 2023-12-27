@@ -13,6 +13,7 @@ Community Fixes Merged.esp
 TMR_GlitchfinderAIO.esm
 HUDFramework.esm
 XDI.esm
+RunningWithHandsAnim.esl
 Z_Architect.esm
 Z_Architect_WorldManager.esp
 Z_Architect_WorldManager_DLC.esp
@@ -20,7 +21,6 @@ Z_Architect_WorldFixes.esp
 Wetness Shader Fix.esp
 Fixed Gobo Effects.esp
 Less Annoying Berry Mentats.esp
-ImTalkingToYou.esp
 OutlineWorkshopShader.esp
 LetMeUseThat.esp
 DLC Timing.esp
@@ -28,6 +28,7 @@ DLC Timing - UFO4P Patch.esp
 WhoIsTheGeneral.esp
 Lightweight Lighting.esp
 Z_Architect_Weather.esp
+NF_Rocks_Fix.esp
 Gloomy Glass.esp
 Targeted Textures.esp
 Z_Architect_TexturePack01.esp
