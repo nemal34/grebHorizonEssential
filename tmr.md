@@ -19,6 +19,9 @@ Weapon Mod Fixes
 CFM - Weapon Mod Fixes Patch
 >Disable the mod
 
+Jet Script Bugfix
+>Disable the mod
+
 Previsibines Repair Pack
 >Disable the mod
 
