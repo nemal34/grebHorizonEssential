@@ -8,7 +8,10 @@
 
 ## Bug Fixes
 Ownership Fixes
->Install the [patch](https://www.nexusmods.com/fallout4/mods/69033)
+>Disable the mod
+
+Horizon World Manager - Ownership Addon
+>Install the [addon](https://www.nexusmods.com/fallout4/mods/69033)
 
 Community Fixes Merged
 >Install the [patch](https://www.nexusmods.com/fallout4/mods/69033)

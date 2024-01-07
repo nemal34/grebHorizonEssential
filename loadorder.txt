@@ -8,16 +8,16 @@ DLCworkshop03.esm
 DLCNukaWorld.esm
 Unofficial Fallout 4 Patch.esp
 REFramework.esm
-Ownership Fixes.esp
 Community Fixes Merged.esp
 TMR_GlitchfinderAIO.esm
 HUDFramework.esm
 XDI.esm
 RunningWithHandsAnim.esl
 Z_Architect.esm
+Z_Architect_WorldFixes.esp
 Z_Architect_WorldManager.esp
 Z_Architect_WorldManager_DLC.esp
-Z_Architect_WorldFixes.esp
+Z_Architect_WorldManager_Ownership.esp
 Wetness Shader Fix.esp
 Fixed Gobo Effects.esp
 Less Annoying Berry Mentats.esp
@@ -52,7 +52,6 @@ Z_Extras.esp
 Z_Architect_Extras.esp
 Z_Architect_CaravanRobots.esp
 RAW INPUT.esp
-Z_Horizon_OwnershipFixes.esp
 Z_Horizon_CFM.esp
 Z_Horizon_WTG.esp
 Enhanced Vanilla Armor and Clothing - Horizon.esp
