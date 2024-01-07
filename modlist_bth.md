@@ -1,5 +1,8 @@
 # Beyond The Horizon
 
+## Misc
+[Horizon World Manager - Ownership Addon](https://www.nexusmods.com/fallout4/mods/69033)\
+
 ## NPCs
 [Facials for Everyone](https://www.nexusmods.com/fallout4/mods/37180)
 

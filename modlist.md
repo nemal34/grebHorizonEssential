@@ -37,7 +37,6 @@
 [Unofficial Fallout 4 Patch - UFO4P](https://www.nexusmods.com/fallout4/mods/4598)\
 [Community Fixes Merged](https://www.nexusmods.com/fallout4/mods/74945)\
 [The Midnight Ride - Glitchfinder All-In-One](https://www.nexusmods.com/fallout4/mods/74949)\
-[Ownership Fixes](https://www.nexusmods.com/fallout4/mods/56885)\
 [Wetness Shader Fix](https://www.nexusmods.com/fallout4/mods/23389)\
 [Fixed Gobo Effects](https://www.nexusmods.com/fallout4/mods/27445)\
 [No PA Battery Pathing](https://www.nexusmods.com/fallout4/mods/33080)\
@@ -83,6 +82,5 @@
 [Horizon](https://www.nexusmods.com/fallout4/mods/17374)\
 [Horizon - Hotfix](https://www.nexusmods.com/fallout4/mods/17374)\
 [Community Fixes Merged - Horizon Patch](https://www.nexusmods.com/fallout4/mods/69033)\
-[Ownership Fixes and Unowned Trash - Horizon Patch](https://www.nexusmods.com/fallout4/mods/69033)\
 [RAW INPUT - Horizon Patch](https://www.nexusmods.com/fallout4/mods/69033)\
 [Who's The General - Horizon Patch](https://www.nexusmods.com/fallout4/mods/69033)
