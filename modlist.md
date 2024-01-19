@@ -18,7 +18,7 @@
 [Outfit ReDress Fix](https://www.nexusmods.com/fallout4/mods/72657)\
 [Interior NavCut Fix](https://www.nexusmods.com/fallout4/mods/72904)\
 [Long Save Bug Fix](https://www.nexusmods.com/fallout4/mods/68681)\
-[Escape Freeze](https://www.nexusmods.com/fallout4/mods/75216)
+[Escape Freeze](https://www.nexusmods.com/fallout4/mods/75216)\
 [Simple Offence Suppression](https://www.nexusmods.com/fallout4/mods/75292)\
 [3rd Person Behavior Fixes](https://www.nexusmods.com/fallout4/mods/69243)\
 [Reload Fix](https://www.nexusmods.com/fallout4/mods/68931)\
