@@ -18,6 +18,7 @@
 [Unlimited Survival Mode](https://www.nexusmods.com/fallout4/mods/26163)\
 [High FPS Physics Fix](https://www.nexusmods.com/fallout4/mods/44798)\
 [Sprint Stuttering Fix](https://www.nexusmods.com/fallout4/mods/47760)\
+[Escape Freeze](https://www.nexusmods.com/fallout4/mods/75216)\
 [Weapon Debris Crash Fix](https://www.nexusmods.com/fallout4/mods/48078)\
 [Classic Holstered Weapons](https://www.nexusmods.com/fallout4/mods/46101)\
 [Bullet Counted Reload](https://www.nexusmods.com/fallout4/mods/41178)
