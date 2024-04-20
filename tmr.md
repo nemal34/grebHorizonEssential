@@ -28,7 +28,7 @@ Jet Script Bugfix
 Previsibines Repair Pack
 >Disable the mod
 
-[PRP Lite](https://www.nexusmods.com/fallout4/mods/64405)
+[Previsibines Repair Pack Lite (PRPFX)](https://www.nexusmods.com/fallout4/mods/64405)
 >Install the main file
 
 ## Base Finish
@@ -49,6 +49,9 @@ MCM Booster
 >Move the mod below Horizon in the left pane
 
 Less Intrusive Tutorial
+>Disable the mod
+
+Grab and Eat Revisited - Quick Use items
 >Disable the mod
 
 **[UltraWide Only]** [Ultra Wide Interface (21x9)](https://www.nexusmods.com/fallout4/mods/65677)

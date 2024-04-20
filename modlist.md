@@ -38,15 +38,17 @@
 [Unofficial Fallout 4 Patch - UFO4P](https://www.nexusmods.com/fallout4/mods/4598)\
 [Community Fixes Merged](https://www.nexusmods.com/fallout4/mods/74945)\
 [The Midnight Ride - Glitchfinder All-In-One](https://www.nexusmods.com/fallout4/mods/74949)\
+[Misc Anim Tweaks and Fixes](https://www.nexusmods.com/fallout4/mods/53597)\
 [Wetness Shader Fix](https://www.nexusmods.com/fallout4/mods/23389)\
-[Fixed Gobo Effects](https://www.nexusmods.com/fallout4/mods/27445)\
-[No PA Battery Pathing](https://www.nexusmods.com/fallout4/mods/33080)\
 [Fixed Protectron Textures](https://www.nexusmods.com/fallout4/mods/27144)\
-[Northern Foothills Rocks Fix](https://www.nexusmods.com/fallout4/mods/70237)\
-[NPC Drinking Fix](https://www.nexusmods.com/fallout4/mods/53980)\
+[Fixed Gobo Effects](https://www.nexusmods.com/fallout4/mods/27445)\
 [Marine Combat Armor Material Fix](https://www.nexusmods.com/fallout4/mods/19854)\
 [Marine Wet suit Material Fix](https://www.nexusmods.com/fallout4/mods/19843)\
-[Luxor's Puddle Remover](https://www.nexusmods.com/fallout4/mods/61388)
+[NPC Drinking Fix](https://www.nexusmods.com/fallout4/mods/53980)\
+[Luxor's Puddle Remover](https://www.nexusmods.com/fallout4/mods/61388)\
+[Northern Foothills Rocks Fix](https://www.nexusmods.com/fallout4/mods/70237)\
+[No PA Battery Pathing](https://www.nexusmods.com/fallout4/mods/33080)\
+[Graygarden CTD Fix - Unofficial UFO4P Patch](https://www.nexusmods.com/fallout4/mods/73112) (NVIDIA Users Only)
 
 ## Visuals
 [Targeted Textures](https://www.nexusmods.com/fallout4/mods/62958)\
@@ -81,7 +83,7 @@
 
 ## Horizon
 [Horizon](https://www.nexusmods.com/fallout4/mods/17374)\
-[Horizon - Hotfix](https://www.nexusmods.com/fallout4/mods/17374)\
+[Horizon World Manager - Ownership Addon](https://www.nexusmods.com/fallout4/mods/69033)\
 [Community Fixes Merged - Horizon Patch](https://www.nexusmods.com/fallout4/mods/69033)\
 [RAW INPUT - Horizon Patch](https://www.nexusmods.com/fallout4/mods/69033)\
 [Who's The General - Horizon Patch](https://www.nexusmods.com/fallout4/mods/69033)
