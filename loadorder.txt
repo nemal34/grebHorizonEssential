@@ -12,20 +12,24 @@ Community Fixes Merged.esp
 TMR_GlitchfinderAIO.esm
 HUDFramework.esm
 XDI.esm
-RunningWithHandsAnim.esl
+YouAndWhatArmy2.esm
 Z_Architect.esm
 Z_Architect_WorldFixes.esp
 Z_Architect_WorldManager.esp
 Z_Architect_WorldManager_DLC.esp
 Z_Architect_WorldManager_Ownership.esp
+MiscAnimTweaks.esp
+NPCRespawnFix.esp
 Wetness Shader Fix.esp
 Fixed Gobo Effects.esp
 Less Annoying Berry Mentats.esp
+Dogmeat Follow Behind.esp
 OutlineWorkshopShader.esp
-LetMeUseThat.esp
 DLC Timing.esp
 DLC Timing - UFO4P Patch.esp
 WhoIsTheGeneral.esp
+No Sneaking in Power Armor.esp
+Extended Diamond City Security Dialogue.esp
 Lightweight Lighting.esp
 Z_Architect_Weather.esp
 NF_Rocks_Fix.esp
@@ -54,6 +58,7 @@ Z_Architect_CaravanRobots.esp
 RAW INPUT.esp
 Z_Horizon_CFM.esp
 Z_Horizon_WTG.esp
+YouAndWhatArmy2 - Horizon.esp
 Enhanced Vanilla Armor and Clothing - Horizon.esp
 TerrainUndersides.esp
 PRPFX-Merged.esp
@@ -61,6 +66,5 @@ Z_Architect_HomePlate.esp
 Z_Architect_Empire.esp
 Z_Architect_EnhancedSettlements.esp
 Z_Architect_EnhancedSettlements_DLC.esp
-Z_Architect_OptimizedLocations.esp
-Z_Horizon_TEMP_FIX1.esp
+Z_Architect_Lighting.esp
 PuddleReflectionFix.esp

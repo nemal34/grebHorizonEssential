@@ -5,6 +5,9 @@
 
 [Horizon 1.9](https://www.nexusmods.com/fallout4/mods/17374)
 >Install the main files
+## Utilities
+Raw Input
+>Install the [patch](https://www.nexusmods.com/fallout4/mods/69033)
 
 ## Bug Fixes
 Ownership Fixes
@@ -25,6 +28,9 @@ CFM - Weapon Mod Fixes Patch
 Jet Script Bugfix
 >Disable the mod
 
+Flutter Flicker Fixer For Foliage
+>Reinstall the mod. In the FOMOD, under PRP Compatibility, choose None.
+
 Previsibines Repair Pack
 >Disable the mod
 
@@ -41,21 +47,9 @@ Bullet Counted Reload
 Remove Ammo from Dropped Guns
 >Disable the mod
 
-Raw Input
->Install the [patch](https://www.nexusmods.com/fallout4/mods/69033)
-
 ## User Interface
-MCM Booster
->Move the mod below Horizon in the left pane
-
-Less Intrusive Tutorial
->Disable the mod
-
-Grab and Eat Revisited - Quick Use items
->Disable the mod
-
 **[UltraWide Only]** [Ultra Wide Interface (21x9)](https://www.nexusmods.com/fallout4/mods/65677)
->Install the mod and select *Extended Dialogue Interface*, *MCM Booster* and *Horizon* in the installer when possible.
+>Install the mod and select *Extended Dialogue Interface* and *Horizon* in the installer when possible.
 
 ## Gameplay
 Complex Vendors
@@ -67,34 +61,13 @@ Complex Vendors - UFO4P Patch
 Blocking Overhaul
 >Disable the mod
 
-NPCs Use Items
->Disable the mod
-
 Chemfluence - AI Combat Dynamics
->Disable the mod
-
-DirectHit
->Disable the mod
-
-Bastion - A Power Armor Overhaul
->Disable the mod
-
-CFM - BPA Redux Patch
 >Disable the mod
 
 SPARS - Simple Power Armor Reduction System
 >Disable the mod
 
 Keep Radiants in the Commonwealth UFO4P Version
->Disable the mod
-
-Thrive Redone
->Disable the mod
-
-Weapon Scrapping Redone
->Disable the mod
-
-Clothing Scrapping Redone
 >Disable the mod
 
 Encounter Zone Recalculation
@@ -106,15 +79,37 @@ Who's The General - Minutemen Quest Cleanup
 Who's The General - Keep Radiants in the Commonwealth Patch
 >Disable the mod
 
+Molotov Cocktail Nerf
+>Disable the mod
+
+Legendaries they can use
+>Disable the mod
+
+## Content
+The Attachment Pack
+>Disable the mod
+
+The Attachment Pack - Implementation Patch
+>Disable the mod
+
+The Attachment Pack - Implementation WMF Patch
+>Disable the mod
+
+Attachment Pack - Description Tweaks and Fixes
+>Disable the mod
+
+Legendary Mutation Messages Fix - Cut Content Restored
+>Disable the mod
+
+You and What Army 2
+>Install the [patch](https://www.nexusmods.com/fallout4/mods/69033)
+
 ## Visuals
 [**Optional**] Lightweight Lighting
 >If you want to use Architect Weather, disable the mod
 
 Enhanced Vanilla Armor and Clothing - EVAC
 >Install the [patch](https://www.nexusmods.com/fallout4/mods/69033)
-
-Terrain Undersides - PPF Patch
->Disable the mod
 
 ## Horizon Finish
 Load Order
