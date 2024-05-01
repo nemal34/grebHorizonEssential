@@ -57,7 +57,7 @@ Z_Architect_Extras.esp
 Z_Architect_CaravanRobots.esp
 RAW INPUT.esp
 Z_Horizon_CFM.esp
-Z_Horizon_WTG.esp
+WhoIsTheGeneral - Horizon.esp
 YouAndWhatArmy2 - Horizon.esp
 Enhanced Vanilla Armor and Clothing - Horizon.esp
 TerrainUndersides.esp

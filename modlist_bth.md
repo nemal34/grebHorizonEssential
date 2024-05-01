@@ -66,7 +66,6 @@
 ## UI
 [Mod Configuration Menu](https://www.nexusmods.com/fallout4/mods/21497)\
 [MCM Settings Manager](https://www.nexusmods.com/fallout4/mods/56195)\
-[MCM Booster](https://www.nexusmods.com/fallout4/mods/56997)\
 [Extended Dialogue Interface](https://www.nexusmods.com/fallout4/mods/27216)\
 [HUDFramework](https://www.nexusmods.com/fallout4/mods/20309)\
 [Crafting Highlight Fix](https://www.nexusmods.com/fallout4/mods/27479)\
@@ -111,8 +110,7 @@
 [Goodneighbor View](https://www.nexusmods.com/fallout4/mods/72021)\
 [Otis Repair Services - Lights In Load Elevators](https://www.nexusmods.com/fallout4/mods/66527)\
 ? [Inside Jobs](https://www.nexusmods.com/fallout4/mods/27320)\
-? [Stumble Upon Interiors](https://www.nexusmods.com/fallout4/mods/15539)\
-? [Commonwealth Wilderness Overhaul](https://www.nexusmods.com/fallout4/mods/41008)
+? [Stumble Upon Interiors](https://www.nexusmods.com/fallout4/mods/15539)
 
 ## Weapons
 [Dak's Assault Rifle Replacer REDUX](https://www.nexusmods.com/fallout4/mods/64725)\
@@ -125,7 +123,10 @@
 ## Horizon
 [Horizon](https://www.nexusmods.com/fallout4/mods/17374)\
 [Horizon World Manager - Ownership Addon](https://www.nexusmods.com/fallout4/mods/69033)\
-[Community Fixes Merged - Horizon Patch](https://www.nexusmods.com/fallout4/mods/69033)\
 [RAW INPUT - Horizon Patch](https://www.nexusmods.com/fallout4/mods/69033)\
+[Community Fixes Merged - Horizon Patch](https://www.nexusmods.com/fallout4/mods/69033)\
+[Immersive Animation Framework - Horizon Patch](https://www.nexusmods.com/fallout4/mods/69033)\
 [Who's The General - Horizon Patch](https://www.nexusmods.com/fallout4/mods/69033)\
+[Facials for Everyone - Horizon Patch](https://www.nexusmods.com/fallout4/mods/69033)\
+[You And What Army 2 - Horizon Patch](https://www.nexusmods.com/fallout4/mods/69033)\
 [Horizon - Comprehensive Power Armor Merge](https://www.nexusmods.com/fallout4/mods/31657)
