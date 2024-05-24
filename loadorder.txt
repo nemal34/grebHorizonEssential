@@ -20,8 +20,11 @@ Z_Architect_WorldManager_DLC.esp
 Z_Architect_WorldManager_Ownership.esp
 MiscAnimTweaks.esp
 NPCRespawnFix.esp
+JumpFallPoseFix.esp
+GrenadeCombatFixes.esp
 Wetness Shader Fix.esp
 Fixed Gobo Effects.esp
+Flutter Flicker Fixer For Foliage.esp
 Less Annoying Berry Mentats.esp
 Dogmeat Follow Behind.esp
 OutlineWorkshopShader.esp
@@ -32,7 +35,6 @@ No Sneaking in Power Armor.esp
 Extended Diamond City Security Dialogue.esp
 Lightweight Lighting.esp
 Z_Architect_Weather.esp
-NF_Rocks_Fix.esp
 Gloomy Glass.esp
 Targeted Textures.esp
 Z_Architect_TexturePack01.esp
@@ -42,6 +44,7 @@ WAVE.esp
 Enhanced Vanilla Armor and Clothing.esp
 ScopeOverlayDOF.esp
 DiamondCityBillboards.esp
+Diamond City Supplements.esp
 GoodneighborView.esp
 RemoveBlur.esp
 Z_BlurRemoval.esp

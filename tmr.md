@@ -3,8 +3,12 @@
 ## Horizon
 >Create a separator named Horizon
 
+[HUDFramework](https://www.nexusmods.com/fallout4/mods/20309)
+>Install the main file
+
 [Horizon 1.9](https://www.nexusmods.com/fallout4/mods/17374)
 >Install the main files
+
 ## Utilities
 Raw Input
 >Install the [patch](https://www.nexusmods.com/fallout4/mods/69033)
@@ -53,9 +57,6 @@ Remove Ammo from Dropped Guns
 
 ## Gameplay
 Complex Vendors
->Disable the mod
-
-Complex Vendors - UFO4P Patch
 >Disable the mod
 
 Blocking Overhaul
