@@ -9,7 +9,6 @@
 
 ## Fixes
 [Unofficial Fallout 4 Patch - UFO4P](https://www.nexusmods.com/fallout4/mods/4598)\
-[Graygarden CTD Fix - Unofficial UFO4P Patch](https://www.nexusmods.com/fallout4/mods/73112) (NVIDIA Users Only)
 
 ## Visuals
 [Architect Texture Pack](https://www.nexusmods.com/fallout4/mods/17374)\
