@@ -35,9 +35,9 @@ No Sneaking in Power Armor.esp
 Extended Diamond City Security Dialogue.esp
 Lightweight Lighting.esp
 Z_Architect_Weather.esp
-Gloomy Glass.esp
 Targeted Textures.esp
 Z_Architect_TexturePack01.esp
+Gloomy Glass.esp
 FO4ParticlePatch.esp
 WET.esp
 WAVE.esp
