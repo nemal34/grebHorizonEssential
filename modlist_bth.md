@@ -96,7 +96,8 @@
 ## Quests
 [Fast Start - Skip Sanctuary Prologue](https://www.nexusmods.com/fallout4/mods/57101)\
 [DLC Timing](https://www.nexusmods.com/fallout4/mods/53057)\
-[DLC Timing - UFO4P Patch](https://www.nexusmods.com/fallout4/mods/63391)\
+[DLC Timing - ESLified](https://www.nexusmods.com/fallout4/mods/64786) (No Automatron)\
+[Integrated Automatron](https://www.nexusmods.com/fallout4/mods/85317)\
 [Who's The General](https://www.nexusmods.com/fallout4/mods/59019)
 
 ## NPCs
