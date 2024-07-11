@@ -6,33 +6,48 @@ DLCCoast.esm
 DLCworkshop02.esm
 DLCworkshop03.esm
 DLCNukaWorld.esm
+ccBGSFO4044-HellfirePowerArmor.esl
+ccBGSFO4115-X02.esl
+ccBGSFO4116-HeavyFlamer.esl
+ccBGSFO4110-WS_Enclave.esl
+ccBGSFO4096-AS_Enclave.esl
+ccFSVFO4007-Halloween.esl
+ccBGSFO4046-TesCan.esl
+ccSBJFO4003-Grenade.esl
+ccOTMFO4001-Remnants.esl
 Unofficial Fallout 4 Patch.esp
 REFramework.esm
 Community Fixes Merged.esp
 TMR_GlitchfinderAIO.esm
-HUDFramework.esm
+fakeInt.esp
+fakeInt_Boston.esp
+fakeInt_DLC.esp
 XDI.esm
 YouAndWhatArmy2.esm
+HUDFramework.esm
 Z_Architect.esm
+RunningWithHandsAnim.esl
 Z_Architect_WorldFixes.esp
 Z_Architect_WorldManager.esp
 Z_Architect_WorldManager_DLC.esp
 Z_Architect_WorldManager_Ownership.esp
+RAW INPUT.esp
 MiscAnimTweaks.esp
+GeneralAtomicsMrGutsyGuards.esp
+GA Galleria Gutsy Voice Fix - UFO4P Patch.esp
 NPCRespawnFix.esp
 JumpFallPoseFix.esp
-GrenadeCombatFixes.esp
+ADSMoveUnLock_SightedOnly.esp
 Wetness Shader Fix.esp
 Fixed Gobo Effects.esp
-Flutter Flicker Fixer For Foliage.esp
+Extended Fake Interior - CC Enclave Remnants Patch.esp
 Less Annoying Berry Mentats.esp
 Dogmeat Follow Behind.esp
-OutlineWorkshopShader.esp
 DLC Timing.esp
 DLC Timing - UFO4P Patch.esp
+Simple Creation Club Delayed NG.esp
 WhoIsTheGeneral.esp
 No Sneaking in Power Armor.esp
-Extended Diamond City Security Dialogue.esp
 Lightweight Lighting.esp
 Z_Architect_Weather.esp
 Targeted Textures.esp
@@ -58,14 +73,18 @@ Z_Horizon_StrictCarryWeight.esp
 Z_Extras.esp
 Z_Architect_Extras.esp
 Z_Architect_CaravanRobots.esp
-RAW INPUT.esp
+CC X-03 - Horizon.esp
+CC X-02 - Horizon.esp
+CC Halloween - Horizon.esp
+CC Enclave Remnants - Horizon.esp
 Z_Horizon_CFM.esp
 WhoIsTheGeneral - Horizon.esp
-YouAndWhatArmy2 - Horizon.esp
 Enhanced Vanilla Armor and Clothing - Horizon.esp
+Ironsight Fixes - RAW INPUT  Patch.esp
 TerrainUndersides.esp
 PRPFX-Merged.esp
 Z_Architect_HomePlate.esp
+YouAndWhatArmy2 - Horizon.esp
 Z_Architect_Empire.esp
 Z_Architect_EnhancedSettlements.esp
 Z_Architect_EnhancedSettlements_DLC.esp

@@ -7,10 +7,18 @@
 >Install the main file
 
 [Horizon 1.9](https://www.nexusmods.com/fallout4/mods/17374)
->Install the main files
+>Install the main file
 
-## Utilities
-Raw Input
+CC Hellfire Power Armor
+>Install the [patch](https://www.nexusmods.com/fallout4/mods/69033)
+
+CC X-02 Power Armor
+>Install the [patch](https://www.nexusmods.com/fallout4/mods/69033)
+
+CC Halloween Workshop Pack
+>Install the [patch](https://www.nexusmods.com/fallout4/mods/69033)
+
+CC Enclave Remnants
 >Install the [patch](https://www.nexusmods.com/fallout4/mods/69033)
 
 ## Bug Fixes
@@ -26,10 +34,7 @@ Community Fixes Merged
 Weapon Mod Fixes
 >Disable the mod
 
-CFM - Weapon Mod Fixes Patch
->Disable the mod
-
-Jet Script Bugfix
+Community Fixes Merged - Weapon Mod Fixes Patch
 >Disable the mod
 
 Flutter Flicker Fixer For Foliage
@@ -56,6 +61,15 @@ Remove Ammo from Dropped Guns
 >Install the mod and select *Extended Dialogue Interface* and *Horizon* in the installer when possible.
 
 ## Gameplay
+Loot Logic and Reduction
+>Disable the mod
+
+Loot Logic and Reduction - UFO4P Patch
+>Disable the mod
+
+Loot Logic and Reduction - CFM Patch
+>Disable the mod
+
 Complex Vendors
 >Disable the mod
 
