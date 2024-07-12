@@ -21,6 +21,10 @@ CC Halloween Workshop Pack
 CC Enclave Remnants
 >Install the [patch](https://www.nexusmods.com/fallout4/mods/69033)
 
+## Utilities
+RAW INPUT
+>Install the [patch](https://www.nexusmods.com/fallout4/mods/69033)
+
 ## Bug Fixes
 Ownership Fixes
 >Disable the mod

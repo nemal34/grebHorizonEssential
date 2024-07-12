@@ -31,7 +31,6 @@ Z_Architect_WorldFixes.esp
 Z_Architect_WorldManager.esp
 Z_Architect_WorldManager_DLC.esp
 Z_Architect_WorldManager_Ownership.esp
-RAW INPUT.esp
 MiscAnimTweaks.esp
 GeneralAtomicsMrGutsyGuards.esp
 GA Galleria Gutsy Voice Fix - UFO4P Patch.esp
@@ -80,6 +79,7 @@ CC Enclave Remnants - Horizon.esp
 Z_Horizon_CFM.esp
 WhoIsTheGeneral - Horizon.esp
 Enhanced Vanilla Armor and Clothing - Horizon.esp
+RAW INPUT.esp
 Ironsight Fixes - RAW INPUT  Patch.esp
 TerrainUndersides.esp
 PRPFX-Merged.esp
