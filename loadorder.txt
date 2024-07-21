@@ -80,7 +80,6 @@ Z_Horizon_CFM.esp
 WhoIsTheGeneral - Horizon.esp
 Enhanced Vanilla Armor and Clothing - Horizon.esp
 RAW INPUT.esp
-Ironsight Fixes - RAW INPUT  Patch.esp
 TerrainUndersides.esp
 PRPFX-Merged.esp
 Z_Architect_HomePlate.esp
