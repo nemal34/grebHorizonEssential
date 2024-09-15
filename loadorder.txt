@@ -88,6 +88,13 @@ WhoIsTheGeneral - Horizon.esp
 Enhanced Vanilla Armor and Clothing - Horizon.esp
 RAW INPUT.esp
 TerrainUndersides.esp
+FO4LODGen.esp
+FO4LODGen-DLCCoast-WindTurbines.esp
+FOLIP - New LODs.esp
+Far Harbor 3d Tree LODs.esp
+Optimized Vanilla Tree LODs.esp
+NF_Rocks_Fix.esp
+TMR Pre-Generated LOD.esp
 PRPFX-Merged.esp
 Z_Architect_HomePlate.esp
 YouAndWhatArmy2 - Horizon.esp
