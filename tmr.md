@@ -1,5 +1,5 @@
 # The Midnight Ride Conversion Guide
-*Updated for TMR 13/9/24*
+*Updated for TMR 10/10/24*
 
 ## Horizon
 >Create a separator named Horizon
@@ -62,6 +62,12 @@ Remove Ammo from Dropped Guns
 >Disable the mod
 
 ## User Interface
+Dynamic Activation Key
+>Disable the mod
+
+Alternative Activation Prompt
+>Disable the mod
+
 **[UltraWide Only]** [Ultra Wide Interface (21x9)](https://www.nexusmods.com/fallout4/mods/65677)
 >Install the mod and select *Extended Dialogue Interface* and *Horizon* in the installer when possible.
 
@@ -97,9 +103,6 @@ Who's The General - Minutemen Quest Cleanup
 >Install the [patch](https://www.nexusmods.com/fallout4/mods/69033)
 
 Who's The General - Keep Radiants in the Commonwealth Patch
->Disable the mod
-
-Molotov Cocktail Nerf
 >Disable the mod
 
 Legendaries they can use

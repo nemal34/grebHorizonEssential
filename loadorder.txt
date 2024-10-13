@@ -15,7 +15,7 @@ ccFSVFO4007-Halloween.esl
 ccBGSFO4046-TesCan.esl
 ccSBJFO4003-Grenade.esl
 ccOTMFO4001-Remnants.esl
-Unofficial Fallout 4 Patch.esp
+unofficial fallout 4 patch.esp
 REFramework.esm
 Community Fixes Merged.esp
 TMR_GlitchfinderAIO.esm
@@ -41,25 +41,20 @@ GA Galleria Gutsy Voice Fix - UFO4P Patch.esp
 Wetness Shader Fix.esp
 Fixed Gobo Effects.esp
 Flutter Flicker Fixer For Foliage.esp
-ClearableUSSRiptide.esp
-ClearableFortHagenSatelliteArray.esp
 Extended Fake Interior - CC Enclave Remnants Patch.esp
-WeaponRackFixes-NukaWorld.esp
 MidnightCultFix.esp
-AbernathySleepFixes.esp
 Less Annoying Berry Mentats.esp
 Dogmeat Follow Behind.esp
 Workshop Highlight Fix.esp
 DLC Timing.esp
-DLC Timing - UFO4P Patch.esp
 Simple Creation Club Delayed NG.esp
 WhoIsTheGeneral.esp
 No Sneaking in Power Armor.esp
 Lightweight Lighting.esp
 Z_Architect_Weather.esp
-Targeted Textures.esp
 Z_Architect_TexturePack01.esp
 Gloomy Glass.esp
+Targeted Textures.esp
 FO4ParticlePatch.esp
 WET.esp
 WAVE.esp
@@ -67,7 +62,6 @@ Enhanced Vanilla Armor and Clothing.esp
 ScopeOverlayDOF.esp
 DiamondCityBillboards.esp
 GoodneighborView.esp
-RemoveBlur.esp
 Z_BlurRemoval.esp
 Z_CameraAddon.esp
 Z_Horizon.esp
