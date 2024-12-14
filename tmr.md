@@ -26,6 +26,9 @@ CC Enclave Remnants
 >Install the [patch](https://www.nexusmods.com/fallout4/mods/69033)
 
 ## Utilities
+X-Cell
+>Install [Horizon - FaceGen Data](https://www.nexusmods.com/fallout4/mods/69033)
+
 RAW INPUT
 >Install the [patch](https://www.nexusmods.com/fallout4/mods/69033)
 
@@ -52,6 +55,12 @@ Previsibines Repair Pack
 >Disable the mod
 
 [Previsibines Repair Pack Lite (PRPFX)](https://www.nexusmods.com/fallout4/mods/64405)
+>Install the main file
+
+No Puddle Cubemaps TMR
+>Disable the mod
+
+[Simple Puddle Reflection Flicker Fix](https://www.nexusmods.com/fallout4/mods/62207)
 >Install the main file
 
 ## Base Finish
@@ -109,6 +118,9 @@ Who's The General - Keep Radiants in the Commonwealth Patch
 >Disable the mod
 
 Legendaries they can use
+>Disable the mod
+
+Molotov Cocktail Nerf
 >Disable the mod
 
 ## Content

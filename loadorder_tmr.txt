@@ -17,6 +17,7 @@ ccSBJFO4003-Grenade.esl
 ccOTMFO4001-Remnants.esl
 unofficial fallout 4 patch.esp
 REFramework.esm
+Ownership Fixes.esp
 community fixes merged.esp
 TMR_GlitchfinderAIO.esm
 NPCRespawnFix.esl
@@ -24,17 +25,16 @@ JumpFallPoseFix.esl
 fakeInt.esp
 fakeInt_Boston.esp
 fakeInt_DLC.esp
+Dynamic Activation Key.esp
 Hit Those Objects.esm
 RunningWithHandsAnim.esl
 YouAndWhatArmy2.esm
 Diamond City Supplements.esm
-HUDFramework.esm
-Z_Architect.esm
-Z_Architect_WorldFixes.esp
-Z_Architect_WorldManager.esp
-Z_Architect_WorldManager_DLC.esp
-Z_Architect_WorldManager_Ownership.esp
+ppf.esm
+RAW INPUT.esp
 MiscAnimTweaks.esp
+WeaponModFixes-GOTY.esp
+community fixes merged - weapon mod fixes patch.esp
 GeneralAtomicsMrGutsyGuards.esp
 GA Galleria Gutsy Voice Fix - UFO4P Patch.esp
 Wetness Shader Fix.esp
@@ -45,13 +45,27 @@ MidnightCultFix.esp
 Less Annoying Berry Mentats.esp
 Dogmeat Follow Behind.esp
 Workshop Highlight Fix.esp
+Alternative Activation Prompts.esp
+mr Loot Logic and Reduction.esp
+loot logic and reduction - cfm patch.esp
+Complex Vendors.esp
+BlockingOverhaul.esp
+Chemfluence AI Combat Dynamics.esp
+SimplePowerArmorReductionSystem.esp
 IntegratedAutomatron.esp
 Simple Creation Club Delayed NG.esp
+Keep Radiants In Commonwealth.esp
 WhoIsTheGeneral.esp
+WTG - KRIC Patch.esp
+LegendariesTheyCanUse.esp
 No Sneaking in Power Armor.esp
+dcc-molotov-nerf.esp
+AttachPack.esp
+Attach Pack Modcol.esp
+The Attachment Pack - Implementation WMF Patch.esp
+Attach Pack Mod Description Fixes.esp
+Legendary Mutation Messages Fix.esp
 Lightweight Lighting.esp
-Z_Architect_Weather.esp
-Z_Architect_TexturePack01.esp
 Gloomy Glass.esp
 Targeted Textures.esp
 FO4ParticlePatch.esp
@@ -61,25 +75,6 @@ Enhanced Vanilla Armor and Clothing.esp
 ScopeOverlayDOF.esp
 DiamondCityBillboards.esp
 GoodneighborView.esp
-Z_BlurRemoval.esp
-Z_CameraAddon.esp
-Z_Horizon.esp
-Z_Horizon_DLC_All.esp
-Z_Horizon_DEFUI.esp
-Z_Horizon_Optional_ShortNaming.esp
-Z_Horizon_Desolation.esp
-Z_Horizon_StrictCarryWeight.esp
-Z_Extras.esp
-Z_Architect_Extras.esp
-Z_Architect_CaravanRobots.esp
-CC X-03 - Horizon.esp
-CC X-02 - Horizon.esp
-CC Halloween - Horizon.esp
-CC Enclave Remnants - Horizon.esp
-Z_Horizon_CFM.esp
-WhoIsTheGeneral - Horizon.esp
-Enhanced Vanilla Armor and Clothing - Horizon.esp
-RAW INPUT.esp
 TerrainUndersides.esp
 FO4LODGen.esp
 FO4LODGen-DLCCoast-WindTurbines.esp
@@ -88,11 +83,5 @@ Far Harbor 3d Tree LODs.esp
 Optimized Vanilla Tree LODs.esp
 NF_Rocks_Fix.esp
 TMR Pre-Generated LOD.esp
-PRPFX-Merged.esp
-Z_Architect_HomePlate.esp
-YouAndWhatArmy2 - Horizon.esp
-Z_Architect_Empire.esp
-Z_Architect_EnhancedSettlements.esp
-Z_Architect_EnhancedSettlements_DLC.esp
-Z_Architect_Lighting.esp
-PuddleReflectionFix.esp
+prp.esp
+No Puddle Cubemaps TMR.esp
