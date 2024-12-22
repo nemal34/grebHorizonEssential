@@ -1,5 +1,5 @@
 # The Midnight Ride Conversion Guide
-*Updated for TMR 13/12/24*
+*Updated for TMR 20/12/24*
 
 ## Horizon
 >Create a separator named Horizon
@@ -26,9 +26,6 @@ CC Enclave Remnants
 >Install the [patch](https://www.nexusmods.com/fallout4/mods/69033)
 
 ## Utilities
-X-Cell
->Install [Horizon - FaceGen Data](https://www.nexusmods.com/fallout4/mods/69033)
-
 RAW INPUT
 >Install the [patch](https://www.nexusmods.com/fallout4/mods/69033)
 

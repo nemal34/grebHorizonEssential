@@ -42,10 +42,11 @@ Fixed Gobo Effects.esp
 Flutter Flicker Fixer For Foliage.esp
 Extended Fake Interior - CC Enclave Remnants Patch.esp
 MidnightCultFix.esp
-Less Annoying Berry Mentats.esp
-Dogmeat Follow Behind.esp
 Workshop Highlight Fix.esp
 Alternative Activation Prompts.esp
+Simple FOV Slider.esp
+Less Annoying Berry Mentats.esp
+Dogmeat Follow Behind.esp
 mr Loot Logic and Reduction.esp
 loot logic and reduction - cfm patch.esp
 Complex Vendors.esp

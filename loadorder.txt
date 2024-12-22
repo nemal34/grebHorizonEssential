@@ -42,9 +42,11 @@ Fixed Gobo Effects.esp
 Flutter Flicker Fixer For Foliage.esp
 Extended Fake Interior - CC Enclave Remnants Patch.esp
 MidnightCultFix.esp
+Workshop Highlight Fix.esp
+Alternative Activation Prompts.esp
+Simple FOV Slider.esp
 Less Annoying Berry Mentats.esp
 Dogmeat Follow Behind.esp
-Workshop Highlight Fix.esp
 IntegratedAutomatron.esp
 Simple Creation Club Delayed NG.esp
 WhoIsTheGeneral.esp
