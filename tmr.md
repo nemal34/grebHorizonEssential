@@ -10,9 +10,6 @@
 [Horizon 1.9](https://www.nexusmods.com/fallout4/mods/17374)
 >Install the main file
 
-Horizon - FaceGen Data
->Install the [mod](https://www.nexusmods.com/fallout4/mods/69033)
-
 CC Hellfire Power Armor
 >Install the [patch](https://www.nexusmods.com/fallout4/mods/69033)
 
