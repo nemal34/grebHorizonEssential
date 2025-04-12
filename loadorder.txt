@@ -79,6 +79,7 @@ HeavyIncineratorCC Horizon patch.esp
 CC Halloween - Horizon.esp
 CC Enclave Remnants - Horizon.esp
 OwnershipFixes - Horizon.esp
+IntegratedAddons - Horizon.esp
 CommunityFixesMerged - Horizon.esp
 WhoIsTheGeneral - Horizon.esp
 RAW INPUT.esp
