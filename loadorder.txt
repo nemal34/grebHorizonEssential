@@ -17,6 +17,7 @@ ccSBJFO4003-Grenade.esl
 ccOTMFO4001-Remnants.esl
 unofficial fallout 4 patch.esp
 REFramework.esm
+Ownership Fixes.esp
 community fixes merged.esp
 TMR_GlitchfinderAIO.esm
 NPCRespawnFix.esl
@@ -25,7 +26,6 @@ fakeInt.esp
 fakeInt_Boston.esp
 fakeInt_DLC.esp
 Hit Those Objects.esm
-RunningWithHandsAnim.esl
 YouAndWhatArmy2.esm
 Diamond City Supplements.esm
 HUDFramework.esm
@@ -33,8 +33,6 @@ Z_Architect.esm
 Z_Architect_WorldFixes.esp
 Z_Architect_WorldManager.esp
 Z_Architect_WorldManager_DLC.esp
-Z_Architect_WorldManager_Ownership.esp
-MiscAnimTweaks.esp
 GeneralAtomicsMrGutsyGuards.esp
 GA Galleria Gutsy Voice Fix - UFO4P Patch.esp
 Wetness Shader Fix.esp
@@ -47,10 +45,12 @@ Alternative Activation Prompts.esp
 Simple FOV Slider.esp
 Less Annoying Berry Mentats.esp
 Dogmeat Follow Behind.esp
-IntegratedAutomatron.esp
-Simple Creation Club Delayed NG.esp
+Simple Everyone's Best Friend.esp
+IntegratedAddons.esp
+IntegratedAddons_CommunityFixesMerged_Patch.esp
 WhoIsTheGeneral.esp
 No Sneaking in Power Armor.esp
+MoreWeathervanes.esp
 Lightweight Lighting.esp
 Z_Architect_Weather.esp
 Z_Architect_TexturePack01.esp
@@ -59,7 +59,6 @@ Targeted Textures.esp
 FO4ParticlePatch.esp
 WET.esp
 WAVE.esp
-Enhanced Vanilla Armor and Clothing.esp
 ScopeOverlayDOF.esp
 DiamondCityBillboards.esp
 GoodneighborView.esp
@@ -76,13 +75,13 @@ Z_Architect_Extras.esp
 Z_Architect_CaravanRobots.esp
 CC X-03 - Horizon.esp
 CC X-02 - Horizon.esp
+HeavyIncineratorCC Horizon patch.esp
 CC Halloween - Horizon.esp
 CC Enclave Remnants - Horizon.esp
-Z_Horizon_CFM.esp
+OwnershipFixes - Horizon.esp
+CommunityFixesMerged - Horizon.esp
 WhoIsTheGeneral - Horizon.esp
-Enhanced Vanilla Armor and Clothing - Horizon.esp
 RAW INPUT.esp
-TerrainUndersides.esp
 FO4LODGen.esp
 FO4LODGen-DLCCoast-WindTurbines.esp
 FOLIP - New LODs.esp
@@ -97,4 +96,3 @@ Z_Architect_Empire.esp
 Z_Architect_EnhancedSettlements.esp
 Z_Architect_EnhancedSettlements_DLC.esp
 Z_Architect_Lighting.esp
-PuddleReflectionFix.esp

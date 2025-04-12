@@ -27,14 +27,12 @@ fakeInt_Boston.esp
 fakeInt_DLC.esp
 Dynamic Activation Key.esp
 Hit Those Objects.esm
-RunningWithHandsAnim.esl
 YouAndWhatArmy2.esm
 Diamond City Supplements.esm
 ppf.esm
 RAW INPUT.esp
-MiscAnimTweaks.esp
 WeaponModFixes-GOTY.esp
-community fixes merged - weapon mod fixes patch.esp
+CFM - Weapon Mod Fixes Patch.esp
 GeneralAtomicsMrGutsyGuards.esp
 GA Galleria Gutsy Voice Fix - UFO4P Patch.esp
 Wetness Shader Fix.esp
@@ -48,23 +46,20 @@ Simple FOV Slider.esp
 Less Annoying Berry Mentats.esp
 Dogmeat Follow Behind.esp
 mr Loot Logic and Reduction.esp
-loot logic and reduction - cfm patch.esp
+Loot Logic and Reduction - UFO4P Patch.esp
 Complex Vendors.esp
+Simple Everyone's Best Friend.esp
 BlockingOverhaul.esp
-Chemfluence AI Combat Dynamics.esp
 SimplePowerArmorReductionSystem.esp
-IntegratedAutomatron.esp
-Simple Creation Club Delayed NG.esp
+IntegratedAddons.esp
+IntegratedAddons_CommunityFixesMerged_Patch.esp
 Keep Radiants In Commonwealth.esp
 WhoIsTheGeneral.esp
 WTG - KRIC Patch.esp
 LegendariesTheyCanUse.esp
 No Sneaking in Power Armor.esp
 dcc-molotov-nerf.esp
-AttachPack.esp
-Attach Pack Modcol.esp
-The Attachment Pack - Implementation WMF Patch.esp
-Attach Pack Mod Description Fixes.esp
+MoreWeathervanes.esp
 Legendary Mutation Messages Fix.esp
 Lightweight Lighting.esp
 Gloomy Glass.esp
@@ -72,11 +67,9 @@ Targeted Textures.esp
 FO4ParticlePatch.esp
 WET.esp
 WAVE.esp
-Enhanced Vanilla Armor and Clothing.esp
 ScopeOverlayDOF.esp
 DiamondCityBillboards.esp
 GoodneighborView.esp
-TerrainUndersides.esp
 FO4LODGen.esp
 FO4LODGen-DLCCoast-WindTurbines.esp
 FOLIP - New LODs.esp
@@ -85,4 +78,3 @@ Optimized Vanilla Tree LODs.esp
 NF_Rocks_Fix.esp
 TMR Pre-Generated LOD.esp
 prp.esp
-No Puddle Cubemaps TMR.esp

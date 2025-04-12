@@ -28,10 +28,7 @@ RAW INPUT
 
 ## Bug Fixes
 Ownership Fixes
->Disable the mod
-
-Horizon World Manager - Ownership Addon
->Install the [addon](https://www.nexusmods.com/fallout4/mods/69033)
+>Install the [patch](https://www.nexusmods.com/fallout4/mods/69033)
 
 Community Fixes Merged
 >Install the [patch](https://www.nexusmods.com/fallout4/mods/69033)
@@ -39,7 +36,7 @@ Community Fixes Merged
 Weapon Mod Fixes
 >Disable the mod
 
-Community Fixes Merged - Weapon Mod Fixes Patch
+CFM - Weapon Mod Fixes Patch
 >Disable the mod
 
 Flutter Flicker Fixer For Foliage
@@ -51,21 +48,8 @@ Previsibines Repair Pack
 [Previsibines Repair Pack Lite (PRPFX)](https://www.nexusmods.com/fallout4/mods/64405)
 >Install the main file
 
-No Puddle Cubemaps TMR
->Disable the mod
-
-[Simple Puddle Reflection Flicker Fix](https://www.nexusmods.com/fallout4/mods/62207)
->Install the main file
-
 ## Base Finish
 If you're only using TMR Base, go to [Horizon Finish](#horizon-finish).
-
-## Tweaks
-Bullet Counted Reload
->Install the [Horizon Lever-Action Shotgun Patch](https://www.nexusmods.com/fallout4/mods/45120)
-
-Remove Ammo from Dropped Guns
->Disable the mod
 
 ## User Interface
 Dynamic Activation Key
@@ -77,14 +61,18 @@ Alternative Activation Prompt
 **[UltraWide Only]** [Ultra Wide Interface (21x9)](https://www.nexusmods.com/fallout4/mods/65677)
 >Install the mod and select *Extended Dialogue Interface* and *Horizon* in the installer when possible.
 
+## Tweaks
+Bullet Counted Reload
+>Install the [Horizon Lever-Action Shotgun Patch](https://www.nexusmods.com/fallout4/mods/45120)
+
+Remove Ammo from Dropped Guns
+>Disable the mod
+
 ## Gameplay
 Loot Logic and Reduction
 >Disable the mod
 
 Loot Logic and Reduction - UFO4P Patch
->Disable the mod
-
-Loot Logic and Reduction - CFM Patch
 >Disable the mod
 
 Complex Vendors
@@ -93,11 +81,11 @@ Complex Vendors
 Blocking Overhaul
 >Disable the mod
 
-Chemfluence - AI Combat Dynamics
->Disable the mod
-
 SPARS - Simple Power Armor Reduction System
 >Disable the mod
+
+Integrated Addons
+>Install the [patch](https://www.nexusmods.com/fallout4/mods/69033)
 
 Keep Radiants in the Commonwealth UFO4P Version
 >Disable the mod
@@ -118,30 +106,15 @@ Molotov Cocktail Nerf
 >Disable the mod
 
 ## Content
-The Attachment Pack
->Disable the mod
-
-The Attachment Pack - Implementation Patch
->Disable the mod
-
-The Attachment Pack - Implementation WMF Patch
->Disable the mod
-
-Attachment Pack - Description Tweaks and Fixes
->Disable the mod
+You and What Army 2
+>Install the [patch](https://www.nexusmods.com/fallout4/mods/69033)
 
 Legendary Mutation Messages Fix - Cut Content Restored
 >Disable the mod
 
-You and What Army 2
->Install the [patch](https://www.nexusmods.com/fallout4/mods/69033)
-
 ## Visuals
 [**Optional**] Lightweight Lighting
 >If you want to use Architect Weather, disable the mod
-
-Enhanced Vanilla Armor and Clothing - EVAC
->Install the [patch](https://www.nexusmods.com/fallout4/mods/69033)
 
 ## Horizon Finish
 Load Order
