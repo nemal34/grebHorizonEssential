@@ -20,8 +20,6 @@ REFramework.esm
 Ownership Fixes.esp
 community fixes merged.esp
 TMR_GlitchfinderAIO.esm
-NPCRespawnFix.esl
-JumpFallPoseFix.esl
 fakeInt.esp
 fakeInt_Boston.esp
 fakeInt_DLC.esp
@@ -47,7 +45,6 @@ Less Annoying Berry Mentats.esp
 Dogmeat Follow Behind.esp
 Simple Everyone's Best Friend.esp
 IntegratedAddons.esp
-IntegratedAddons_CommunityFixesMerged_Patch.esp
 WhoIsTheGeneral.esp
 No Sneaking in Power Armor.esp
 MoreWeathervanes.esp

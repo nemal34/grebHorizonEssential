@@ -78,9 +78,6 @@ Loot Logic and Reduction - UFO4P Patch
 Complex Vendors
 >Disable the mod
 
-Blocking Overhaul
->Disable the mod
-
 SPARS - Simple Power Armor Reduction System
 >Disable the mod
 
