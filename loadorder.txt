@@ -45,6 +45,7 @@ Less Annoying Berry Mentats.esp
 Dogmeat Follow Behind.esp
 Simple Everyone's Best Friend.esp
 IntegratedAddons.esp
+IntegratedAddons_CommunityFixesMerged_Patch.esp
 WhoIsTheGeneral.esp
 No Sneaking in Power Armor.esp
 MoreWeathervanes.esp

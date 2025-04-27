@@ -49,6 +49,7 @@ Complex Vendors.esp
 Simple Everyone's Best Friend.esp
 SimplePowerArmorReductionSystem.esp
 IntegratedAddons.esp
+IntegratedAddons_CommunityFixesMerged_Patch.esp
 Keep Radiants In Commonwealth.esp
 WhoIsTheGeneral.esp
 WTG - KRIC Patch.esp
