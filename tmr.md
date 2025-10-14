@@ -1,5 +1,5 @@
 # The Midnight Ride Conversion Guide
-*Updated for TMR 09/08/25*
+*Updated for TMR 2025 Oct 11*
 
 ## Horizon
 >Create a separator named Horizon
@@ -27,9 +27,6 @@ RAW INPUT
 >Install the [patch](https://www.nexusmods.com/fallout4/mods/69033)
 
 ## Bug Fixes
-Ownership Fixes
->Install the [patch](https://www.nexusmods.com/fallout4/mods/69033)
-
 Community Fixes Merged
 >Install the [patch](https://www.nexusmods.com/fallout4/mods/69033)
 
@@ -38,6 +35,9 @@ Weapon Mod Fixes
 
 CFM - Weapon Mod Fixes Patch
 >Disable the mod
+
+X-Cell
+>Install [Horizon - FaceGen Data](https://www.nexusmods.com/fallout4/mods/69033)
 
 Flutter Flicker Fixer For Foliage
 >Reinstall the mod. In the FOMOD, under PRP Compatibility, choose None.
