@@ -8,7 +8,7 @@
 >Install the main file
 
 [Horizon 1.9](https://www.nexusmods.com/fallout4/mods/17374)
->Install the main file
+>Install the main file. In the FOMOD, make sure to unselect the **Main Menu - Saves** option.
 
 CC Hellfire Power Armor
 >Install the [patch](https://www.nexusmods.com/fallout4/mods/69033)
