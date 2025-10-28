@@ -116,7 +116,7 @@ Legendary Mutation Messages Fix - Cut Content Restored
 [**Optional**] Lightweight Lighting
 >If you want to use Architect Weather, disable the mod
 
-Lightweight Lighting
+Enhanced Vanilla Water
 >If you want to use Architect Weather, reinstall the mod. In the FOMOD, under Plugin, choose ESP.
 
 ## Horizon Finish
