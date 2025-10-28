@@ -26,6 +26,7 @@ BloodFixes.esm
 Hit Those Objects.esm
 YouAndWhatArmy2.esm
 Diamond City Supplements.esm
+Enhanced Vanilla Water.esm
 HUDFramework.esm
 Z_Architect.esm
 Z_Architect_WorldFixes.esp
@@ -48,11 +49,13 @@ IntegratedAddons.esp
 WhoIsTheGeneral.esp
 No Sneaking in Power Armor.esp
 MoreWeathervanes.esp
+MoreDCBounties.esp
 Lightweight Lighting.esp
 Z_Architect_Weather.esp
 Z_Architect_TexturePack01.esp
 Gloomy Glass.esp
 Targeted Textures.esp
+Enhanced Vanilla Water.esp
 FO4ParticlePatch.esp
 ScopeOverlayDOF.esp
 DiamondCityBillboards.esp

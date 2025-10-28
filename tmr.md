@@ -1,5 +1,5 @@
 # The Midnight Ride Conversion Guide
-*Updated for TMR 2025 Oct 11*
+*Updated for TMR 2025 Oct 22*
 
 ## Horizon
 >Create a separator named Horizon
@@ -106,12 +106,18 @@ Molotov Cocktail Nerf
 You and What Army 2
 >Install the [patch](https://www.nexusmods.com/fallout4/mods/69033)
 
+More Diamond City Bounties
+>Install the [patch](https://www.nexusmods.com/fallout4/mods/69033)
+
 Legendary Mutation Messages Fix - Cut Content Restored
 >Disable the mod
 
 ## Visuals
 [**Optional**] Lightweight Lighting
 >If you want to use Architect Weather, disable the mod
+
+Lightweight Lighting
+>If you want to use Architect Weather, reinstall the mod. In the FOMOD, under Plugin, choose ESP.
 
 ## Horizon Finish
 Load Order
