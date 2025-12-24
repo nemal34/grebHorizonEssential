@@ -24,6 +24,7 @@ fakeInt_Boston.esp
 fakeInt_DLC.esp
 BloodFixes.esm
 Hit Those Objects.esm
+No Sneaking in Power Armor.esp
 YouAndWhatArmy2.esm
 Diamond City Supplements.esm
 Enhanced Vanilla Water.esm
@@ -47,7 +48,6 @@ Dogmeat Follow Behind.esp
 Simple Everyone's Best Friend.esp
 IntegratedAddons.esp
 WhoIsTheGeneral.esp
-No Sneaking in Power Armor.esp
 MoreWeathervanes.esp
 MoreDCBounties.esp
 Lightweight Lighting.esp
@@ -60,6 +60,7 @@ FO4ParticlePatch.esp
 ScopeOverlayDOF.esp
 DiamondCityBillboards.esp
 GoodneighborView.esp
+TerrainFrecklesBeGone.esp
 Z_BlurRemoval.esp
 Z_CameraAddon.esp
 Z_Horizon.esp
@@ -72,11 +73,7 @@ Z_Extras.esp
 Z_Architect_Extras.esp
 Z_Architect_CaravanRobots.esp
 Z_Horizon_FaceGen.esp
-CC X-03 - Horizon.esp
-CC X-02 - Horizon.esp
-HeavyIncineratorCC Horizon patch.esp
-CC Halloween - Horizon.esp
-CC Enclave Remnants - Horizon.esp
+Z_Horizon_Patch_CC_NextGen.esp
 IntegratedAddons - Horizon.esp
 CommunityFixesMerged - Horizon.esp
 WhoIsTheGeneral - Horizon.esp
@@ -86,8 +83,8 @@ FOLIP - New LODs.esp
 Far Harbor 3d Tree LODs.esp
 Optimized Vanilla Tree LODs.esp
 NF_Rocks_Fix.esp
-PRPFX-Merged.esp
 TMR Pre-Generated LOD.esp
+PRPFX-Merged.esp
 Z_Architect_HomePlate.esp
 YouAndWhatArmy2 - Horizon.esp
 Z_Architect_Empire.esp

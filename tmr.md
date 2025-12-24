@@ -1,5 +1,5 @@
 # The Midnight Ride Conversion Guide
-*Updated for TMR 2025 Oct 22*
+*Updated for TMR 2025 Dec 23*
 
 ## Horizon
 >Create a separator named Horizon
@@ -9,18 +9,7 @@
 
 [Horizon 1.9](https://www.nexusmods.com/fallout4/mods/17374)
 >Install the main file. In the FOMOD, make sure to unselect the **Main Menu - Saves** option.
-
-CC Hellfire Power Armor
->Install the [patch](https://www.nexusmods.com/fallout4/mods/69033)
-
-CC X-02 Power Armor
->Install the [patch](https://www.nexusmods.com/fallout4/mods/69033)
-
-CC Halloween Workshop Pack
->Install the [patch](https://www.nexusmods.com/fallout4/mods/69033)
-
-CC Enclave Remnants
->Install the [patch](https://www.nexusmods.com/fallout4/mods/69033)
+>Install the update file **NextGen CC Patch (All-in-one)**.
 
 ## Utilities
 RAW INPUT
@@ -59,7 +48,7 @@ Alternative Activation Prompt
 >Disable the mod
 
 **[UltraWide Only]** [Ultra Wide Interface (21x9)](https://www.nexusmods.com/fallout4/mods/65677)
->Install the mod and select *Extended Dialogue Interface* and *Horizon* in the installer when possible.
+>Install the old file **Default UI Size (Pre-Next-Gen only)**. In the FOMOD, select *Extended Dialogue Interface* and *Horizon* in the installer when possible.
 
 ## Tweaks
 Bullet Counted Reload
@@ -93,7 +82,7 @@ Encounter Zone Recalculation
 Who's The General - Minutemen Quest Cleanup
 >Install the [patch](https://www.nexusmods.com/fallout4/mods/69033)
 
-Who's The General - Keep Radiants in the Commonwealth Patch
+Who's The General Patch Hub
 >Disable the mod
 
 Legendaries they can use
