@@ -23,8 +23,8 @@ fakeInt.esp
 fakeInt_Boston.esp
 fakeInt_DLC.esp
 BloodFixes.esm
-Hit Those Objects.esm
 No Sneaking in Power Armor.esp
+Hit Those Objects.esm
 YouAndWhatArmy2.esm
 Diamond City Supplements.esm
 Enhanced Vanilla Water.esm
@@ -41,7 +41,6 @@ MidnightCultFix.esp
 GeneralAtomicsMrGutsyGuards.esp
 GA Galleria Gutsy Voice Fix - UFO4P Patch.esp
 Workshop Highlight Fix.esp
-Alternative Activation Prompts.esp
 Simple FOV Slider.esp
 Less Annoying Berry Mentats.esp
 Dogmeat Follow Behind.esp
@@ -83,8 +82,8 @@ FOLIP - New LODs.esp
 Far Harbor 3d Tree LODs.esp
 Optimized Vanilla Tree LODs.esp
 NF_Rocks_Fix.esp
-TMR Pre-Generated LOD.esp
 PRPFX-Merged.esp
+TMR Pre-Generated LOD.esp
 Z_Architect_HomePlate.esp
 YouAndWhatArmy2 - Horizon.esp
 Z_Architect_Empire.esp

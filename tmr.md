@@ -1,5 +1,5 @@
 # The Midnight Ride Conversion Guide
-*Updated for TMR 2025 Dec 23*
+*Updated for TMR 2026 Mar 23*
 
 ## Horizon
 >Create a separator named Horizon
@@ -19,13 +19,7 @@ RAW INPUT
 Community Fixes Merged
 >Install the [patch](https://www.nexusmods.com/fallout4/mods/69033)
 
-Weapon Mod Fixes
->Disable the mod
-
-CFM - Weapon Mod Fixes Patch
->Disable the mod
-
-X-Cell
+Addictol
 >Install [Horizon - FaceGen Data](https://www.nexusmods.com/fallout4/mods/69033)
 
 Flutter Flicker Fixer For Foliage
@@ -51,6 +45,12 @@ Alternative Activation Prompt
 >Install the old file **Default UI Size (Pre-Next-Gen only)**. In the FOMOD, select *Extended Dialogue Interface* and *Horizon* in the installer when possible.
 
 ## Tweaks
+Assorted Modular Tweaks - ESPless
+>Disable the mod
+
+Assorted Modular Tweaks - ESPless - TMR Config
+>Disable the mod
+
 Bullet Counted Reload
 >Install the [Horizon Lever-Action Shotgun Patch](https://www.nexusmods.com/fallout4/mods/45120)
 
@@ -97,6 +97,9 @@ You and What Army 2
 
 More Diamond City Bounties
 >Install the [patch](https://www.nexusmods.com/fallout4/mods/69033)
+
+More Diamond City Bounties - Alternative Activation Prompts Patch
+>Disable the mod
 
 Legendary Mutation Messages Fix - Cut Content Restored
 >Disable the mod
