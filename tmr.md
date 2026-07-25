@@ -1,5 +1,5 @@
 # The Midnight Ride Conversion Guide
-*Updated for TMR 2026 Mar 23*
+*Updated for TMR 2026 Jul 24*
 
 ## Horizon
 >Create a separator named Horizon
@@ -35,12 +35,6 @@ Previsibines Repair Pack
 If you're only using TMR Base, go to [Horizon Finish](#horizon-finish).
 
 ## User Interface
-Dynamic Activation Key
->Disable the mod
-
-Alternative Activation Prompt
->Disable the mod
-
 **[UltraWide Only]** [Ultra Wide Interface (21x9)](https://www.nexusmods.com/fallout4/mods/65677)
 >Install the old file **Default UI Size (Pre-Next-Gen only)**. In the FOMOD, select *Extended Dialogue Interface* and *Horizon* in the installer when possible.
 
@@ -90,6 +84,12 @@ Legendaries they can use
 
 Molotov Cocktail Nerf
 >Disable the mod
+
+Safe Travels
+>Disable the mod
+
+Reinforcements and Retribution
+>Install the [patch](https://www.nexusmods.com/fallout4/mods/69041)
 
 ## Content
 You and What Army 2

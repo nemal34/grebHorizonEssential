@@ -23,11 +23,12 @@ fakeInt.esp
 fakeInt_Boston.esp
 fakeInt_DLC.esp
 BloodFixes.esm
+Dogmeat Lags Behind.esp
 No Sneaking in Power Armor.esp
-Hit Those Objects.esm
 YouAndWhatArmy2.esm
 Diamond City Supplements.esm
 Enhanced Vanilla Water.esm
+FOLIP - Master.esm
 HUDFramework.esm
 Z_Architect.esm
 Z_Architect_WorldFixes.esp
@@ -41,12 +42,12 @@ MidnightCultFix.esp
 GeneralAtomicsMrGutsyGuards.esp
 GA Galleria Gutsy Voice Fix - UFO4P Patch.esp
 Workshop Highlight Fix.esp
-Simple FOV Slider.esp
 Less Annoying Berry Mentats.esp
-Dogmeat Follow Behind.esp
+RefreshingCheckpoints.esp
 Simple Everyone's Best Friend.esp
 IntegratedAddons.esp
 WhoIsTheGeneral.esp
+ReinforcementsAndRetribution.esp
 MoreWeathervanes.esp
 MoreDCBounties.esp
 Lightweight Lighting.esp
@@ -56,7 +57,6 @@ Gloomy Glass.esp
 Targeted Textures.esp
 Enhanced Vanilla Water.esp
 FO4ParticlePatch.esp
-ScopeOverlayDOF.esp
 DiamondCityBillboards.esp
 GoodneighborView.esp
 TerrainFrecklesBeGone.esp
@@ -76,6 +76,7 @@ Z_Horizon_Patch_CC_NextGen.esp
 IntegratedAddons - Horizon.esp
 CommunityFixesMerged - Horizon.esp
 WhoIsTheGeneral - Horizon.esp
+ReinforcementsAndRetribution Horizon patch.esp
 RAW INPUT.esp
 FO4LODGen.esp
 FOLIP - New LODs.esp
@@ -83,6 +84,7 @@ Far Harbor 3d Tree LODs.esp
 Optimized Vanilla Tree LODs.esp
 NF_Rocks_Fix.esp
 PRPFX-Merged.esp
+FOLIP - Patch.esp
 TMR Pre-Generated LOD.esp
 Z_Architect_HomePlate.esp
 YouAndWhatArmy2 - Horizon.esp
